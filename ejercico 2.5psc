@@ -1,0 +1,13 @@
+Algoritmo ejemplo_dos_punto_cinco
+	Escribir "digite primer lado A" 
+	Leer A
+	Escribir "Digite seguindo lado B"
+	Leer B
+	Escribir "Digite tercer lado C"
+	Leer C
+	R = A-C
+	Rt = (R*B)/2
+	Rr = C*B
+	RT = Rt+Rr
+	Escribir "El área del terreno es: " RT 
+FinAlgoritmo
